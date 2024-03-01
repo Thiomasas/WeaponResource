@@ -1,0 +1,2 @@
+# WeaponResource
+Boom Boom BOOM!
